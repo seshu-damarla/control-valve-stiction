@@ -10,4 +10,4 @@ Seshu K. Damarla, Xi Sun, Fangwei Xu, Ashish Shah, Joseph Amalraj, Biao Huang (2
 
 Da Zheng, Xi Sun, Seshu K. Damarla, Ashish Shah, Joseph Amalraj, Biao Huang (2021). Valve Stiction Detection and Quantification Using K-means Clustering Based Moving Window Approach. Industrial & Engineering Chemistry Research, Vol. 60(6), pp. 2563-2577. 
 
-Amirreza Memarian, Seshu Kumar Damarla, Biao Huang (2022). Shape-based pattern recognition approach toward plant-wide oscillation detection. In Proceedings of Canadian Chemical Engineering Conference, Vancouver, Canada, October 23-26, 2022.
+Seshu K. Damarla, Xi Sun, Fangwei Xu, Ashish Shah, Biao Huang (2022). A Sigmoid Function based Method for Detection of Stiction in Control Valves. In Proceedings of 7th International Symposium on Advanced Control of Industrial Processes, 7-9 August 2022, University of British Columbia, Canada. 
